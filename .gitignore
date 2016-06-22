@@ -1,0 +1,5 @@
+blog/*.php
+blog/twentyfifteen/*
+blog/twentyfourteen/*
+blog/twentysixteen/*
+blog/.htaccess
